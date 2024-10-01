@@ -1,4 +1,5 @@
-# C-Programmierung-WBH-bungen
+# C-Programming-WBH-Exercises
+
 1.)
 Schreiben Sie ein Programm, das eine zwölfstellige ganze positive Zahl von der Tastatur in eine einzige Variable einliest. Dann soll die Zahl in ihre Ziffern zerlegt, die einzelnen Ziffern ausgegeben und die Summe dieser Ziffern, d. h. die Quersumme der Zahl, berechnet und ebenfalls ausgegeben werden. (Verwenden Sie kein Feld.)
 
